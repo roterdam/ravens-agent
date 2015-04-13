@@ -1,0 +1,4 @@
+OpenCV version  - 2.4.10 or 3.0.0
+BoofCV version - 0.18
+georegression - 0.7
+JavaCV - 0.9 latest
